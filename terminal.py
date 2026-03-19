@@ -12,7 +12,7 @@ import time
 # ⚙️ CONFIGURATION
 # ==========================================
 FIREBASE_DB_URL = "https://strikexo-55b1d-default-rtdb.firebaseio.com"
-BOT_TOKEN = '7992380671:AAGDHNnO8ETONZb0oIjv0sa-aMFa4qCwAgQ'  # আপনার টোকেন দিন
+BOT_TOKEN = '7992380671:AAGn098Z2TJJ-QSLnw4PyFzeqJUIolM7jrQ'  # আপনার টোকেন দিন
 ADMIN_ID = "8789987504"  # আপনার টেলিগ্রাম আইডি দিন
 
 bot = telebot.TeleBot(BOT_TOKEN)
